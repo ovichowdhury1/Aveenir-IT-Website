@@ -191,7 +191,7 @@
  }
 
  .deal-bottom {
-   padding: 56px 16px 0;
+   padding: 10px 16px 0;
  }
  .deal-bottom ul {
    margin: 0;
@@ -220,15 +220,6 @@
    text-decoration: none;
  }
 
- .single-price:hover .deal-top {
-   background: #424143;
- }
- .single-price:hover .deal-top:after {
-   border-top: 50px solid #424143;
- }
- .single-price:hover .btn-area a {
-   background: #424143;
- }
  .link-area
  {
    position:fixed;
@@ -426,3 +417,35 @@ figure:hover img {
   filter: grayscale(0);
 }
 
+.Service1-div {
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
+.img-radius{
+  border-radius: 20px !important;
+}
+
+
+.aveenir-orange-color{
+  color: #424143;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+  .logo-area{
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 10px;
+   }
+}
+
+
+.fot-list a{
+  padding-right: 5px !important;
+}
+
+.pf-btn{
+  background: #F47f20 !important;
+}

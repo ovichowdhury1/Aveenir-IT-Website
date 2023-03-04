@@ -43,7 +43,7 @@
 			<div class="row header-top gx-0">
 				<div class="col-xl-4 col-lg-3 d-none d-lg-inline-block">
 					<div class="logo-area pl-30">
-						<a class="head-logo-1" href="index.php"><img src="img/logo/Compnay-logo1.png"
+						<a class="head-logo-1" href="index.html"><img src="img/logo/Compnay-logo1.png"
 								style="height: 70px;width: 70px;" alt="Header-logo"></a>
 					</div>
 				</div>
@@ -64,7 +64,7 @@
 							</div>
 						</li>
 						<li>
-							<a class="theme_btn quote-btn" href="contact.php">Free Consultation</a>
+							<a class="theme_btn quote-btn" href="contact.html">Free Consultation</a>
 						</li>
 					</ul>
 				</div>
@@ -75,63 +75,63 @@
 				<div class="border-tops white-bg row align-items-center gx-0">
 					<div class="col-lg-10 col-6 text-start">
 						<div class="logo-area d-lg-none d-md-block">
-							<a href="index.php"><img src="img/logo/Compnay-logo1.png" style="height: 70px;width: 70px;"
+							<a href="index.html"><img src="img/logo/Compnay-logo1.png" style="height: 70px;width: 70px;"
 									alt="Header-logo"></a>
 						</div>
 						<div class="d-none d-lg-block">
 							<nav id="topheader" class="navbar navbar-expand-lg justify-content-start py-0">
 								<ul class="navbar-nav list-style-none">
 									<li class="nav-item dropdown">
-										<a class="nav-link" href="index.php">Home</a>
+										<a class="nav-link" href="index.html">Home</a>
 									</li>
 									<li class="nav-item dropdown active">
 										<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button"
 											data-bs-toggle="dropdown" aria-expanded="false">About</a>
 										<ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
 											<li>
-												<a class="dropdown-item" href="company-overview.php">Company
+												<a class="dropdown-item" href="company-overview.html">Company
 													Overview</a>
 											</li>
 											<li>
-												<a class="dropdown-item" href="mission-vision.php">Mission & Vision</a>
+												<a class="dropdown-item" href="mission-vision.html">Mission & Vision</a>
 											</li>
 											<li>
-												<a class="dropdown-item" href="team.php">Team</a>
+												<a class="dropdown-item" href="team.html">Team</a>
 											</li>
 											<li>
-												<a class="dropdown-item" href="concern.php">Our Concern</a>
+												<a class="dropdown-item" href="concern.html">Our Concern</a>
 											</li>
 										</ul>
 									</li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="index.php" id="navbarDropdown2"
+										<a class="nav-link dropdown-toggle" href="index.html" id="navbarDropdown2"
 											role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
 										<ul class="dropdown-menu">
 											<li class="dropdown-submenu">
-												<a class="dropdown-item dropdown-toggle" href="services.php"
+												<a class="dropdown-item dropdown-toggle" href="services.html"
 													id="navbarDropdow2a" role="button" data-bs-toggle="dropdown"
 													aria-expanded="false">IT SERVICES <i
 														class="fal fa-chevron-down"></i></a>
 												<ul class="dropdown-menu dropdown-menu2"
 													aria-labelledby="navbarDropdown2a">
 													<li>
-														<a class="dropdown-item" href="web-development.php">Web
+														<a class="dropdown-item" href="web-development.html">Web
 															Development</a>
 													</li>
 													<li>
 														<a class="dropdown-item"
-															href="software-development.php">Software
+															href="software-development.html">Software
 															Development</a>
 													</li>
 													<li>
 														<a class="dropdown-item"
-															href="mobile-Application-development.php">Mobile
+															href="mobile-Application-development.html">Mobile
 															Application <br> Development</a>
 													</li>
 												</ul>
 											</li>
 											<li class="dropdown-submenu">
-												<a class="dropdown-item dropdown-toggle" href="services.php"
+												<a class="dropdown-item dropdown-toggle" href="services.html"
 													id="navbarDropdow2a" role="button" data-bs-toggle="dropdown"
 													aria-expanded="false">Creative
 													Services <i class="fal fa-chevron-down"></i></a>
@@ -139,38 +139,38 @@
 													aria-labelledby="navbarDropdown2a">
 													<li>
 														<a class="dropdown-item"
-															href="graphical-solution.php">Graphical Solution</a>
+															href="graphical-solution.html">Graphical Solution</a>
 													</li>
 
 													<li>
 														<a class="dropdown-item"
-															href="videography-Photography.php">Videography &
+															href="videography-Photography.html">Videography &
 															Photography <br>Support</a>
 													</li>
 													<li>
-														<a class="dropdown-item" href="vfx-&-Animation.php">VFX &
+														<a class="dropdown-item" href="vfx-&-Animation.html">VFX &
 															Animation</a>
 													</li>
 
 												</ul>
 											</li>
 											<li>
-												<a class="dropdown-item" href="Digital-marketing-services.php">Digital
+												<a class="dropdown-item" href="Digital-marketing-services.html">Digital
 													Marketing services</a>
 											</li>
 											<li>
-												<a class="dropdown-item" href="one-stop-solution.php">One Stop Solution</a>
+												<a class="dropdown-item" href="one-stop-solution.html">One Stop Solution</a>
 											</li>
 										</ul>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="portfolio.php">Portfolio</a>
+										<a class="nav-link" href="portfolio.html">Portfolio</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="gallery.php">Gallery</a>
+										<a class="nav-link" href="gallery.html">Gallery</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="contact.php">Contact</a>
+										<a class="nav-link" href="contact.html">Contact</a>
 									</li>
 								</ul>
 							</nav>
@@ -206,7 +206,7 @@
 		<!-- offset-sidebar start -->
 		<div class="offset-sidebar">
 			<div class="offset-widget offset-logo mb-30">
-				<a href="index.php">
+				<a href="index.html">
 					<img src="img/logo/Compnay-logo1.png" style="height: 70px;width: 70px;" alt="logo">
 				</a>
 			</div>
@@ -234,7 +234,7 @@
 							Housing Ltd.Bosila Road,
 							Mohammadpur</p>
 					</div>
-					<a class="theme_btn theme_btn_bg offset-sidebar-btn" href="contact.php">Contact Us <i
+					<a class="theme_btn theme_btn_bg offset-sidebar-btn" href="contact.html">Contact Us <i
 							class="fas fa-long-arrow-right"></i></a>
 				</div>
 			</div>
@@ -244,52 +244,52 @@
 		<!-- side-mobile-menu start -->
 		<nav class="side-mobile-menu">
 			<ul id="mobile-menu-active">
-				<li><a href="index.php">Home</a></li>
+				<li><a href="index.html">Home</a></li>
 				<li class="has-dropdown">
 					<a href="#">About</a>
 					<ul class="sub-menu">
-						<li><a href="company-overview.php">Company Overview</a></li>
-						<li><a href="mission-vision.php">Mission & Vision</a></li>
-						<li><a href="team.php">Team</a></li>
-						<li><a href="concern.php">Our Concern</a></li>
+						<li><a href="company-overview.html">Company Overview</a></li>
+						<li><a href="mission-vision.html">Mission & Vision</a></li>
+						<li><a href="team.html">Team</a></li>
+						<li><a href="concern.html">Our Concern</a></li>
 					</ul>
 				</li>
 				<li class="has-dropdown">
-					<a href="index.php">Services</a>
+					<a href="index.html">Services</a>
 					<ul class="sub-menu">
 						<li class="has-dropdown">
-							<a href="services.php">IT SERVICES</a>
+							<a href="services.html">IT SERVICES</a>
 							<ul class="sub-menu">
-								<li><a href="web-development.php">Web Development</a></li>
-								<li><a href="software-development.php">Software
+								<li><a href="web-development.html">Web Development</a></li>
+								<li><a href="software-development.html">Software
 										Development</a></li>
-								<li><a href="mobile-Application-development.php">Mobile
+								<li><a href="mobile-Application-development.html">Mobile
 										Application <br> Development</a></li>
 							</ul>
 						</li>
 						<li class="has-dropdown">
-							<a href="services.php">CREATIVE
+							<a href="services.html">CREATIVE
 								SERVICE</a>
 							<ul class="sub-menu">
-								<li><a href="graphical-solution.php">Graphical Solution</a></li>
+								<li><a href="graphical-solution.html">Graphical Solution</a></li>
 
-								<li><a href="videography-Photography.php">Videography
+								<li><a href="videography-Photography.html">Videography
 										& Photography Support</a></a></li>
-								<li><a href="vfx-&-Animation.php">VFX & Animation</a></a></li>
+								<li><a href="vfx-&-Animation.html">VFX & Animation</a></a></li>
 							</ul>
 						</li>
 						<li>
-							<a class="dropdown-item" href="Digital-marketing-services.php">Digital Marketing
+							<a class="dropdown-item" href="Digital-marketing-services.html">Digital Marketing
 								services</a>
 						</li>
 						<li>
-							<a class="dropdown-item" href="one-stop-solution.php">One Stop Solution</a>
+							<a class="dropdown-item" href="one-stop-solution.html">One Stop Solution</a>
 						</li>
 					</ul>
 				</li>
-				<li><a href="portfolio.php">Portfolio</a></li>
-				<li><a href="gallery.php">Gallery</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="portfolio.html">Portfolio</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</nav>
 		<!-- side-mobile-menu end -->
@@ -303,7 +303,7 @@
 				<div class="row align-items-center pt-140 pt-xs-60">
 					<div class="col-lg-6 col-md-5 text-md-end">
 						<ul class="breadcrumb list-none breadcrumb-bg float-start">
-							<li><a href="index.php">Pages</a></li>
+							<li><a href="index.html">Pages</a></li>
 							<li class="active text-heding fw-bold" aria-current="page">Our Team</li>
 						</ul>
 					</div>
@@ -623,9 +623,9 @@
 					<div class="footer__widget mb-30 pl-55 pl-lg-0 pl-md-0 pl-xs-0">
 						<h6 class="widget-title text-white pb-15 mb-35">Our Services</h6>
 						<ul class="fot-list">
-							<li><a href="index.php">IT SERVICES</a></li>
-							<li><a href="contact.php">IT Consultancy</a></li>
-							<li><a href="index.php">CREATIVE SERVICES</a></li>
+							<li><a href="index.html">IT SERVICES</a></li>
+							<li><a href="contact.html">IT Consultancy</a></li>
+							<li><a href="index.html">CREATIVE SERVICES</a></li>
 						</ul>
 					</div>
 				</div>
@@ -634,21 +634,21 @@
 					<div class="footer__widget mb-30">
 						<h6 class="widget-title text-white pb-15 mb-35">Quick links</h6>
 						<ul class="fot-list fot-flex">
-							<li><a href="company-overview.php">Company Overview</a></li>
-							<li><a href="mission-vision.php">Mission & Vision</a></li>
-							<li><a href="team.php">Team</a></li>
-							<li><a href="concern.php">Our Concern</a></li>
-							<li><a href="web-development.php">Web Development</a></li>
-							<li><a href="software-development.php">Software Development</a></li>
-							<li><a href="mobile-Application-development.php">Mobile Application Development</a></li>
-							<li><a href="graphical-solution.php">Graphical Solution</a></li>
+							<li><a href="company-overview.html">Company Overview</a></li>
+							<li><a href="mission-vision.html">Mission & Vision</a></li>
+							<li><a href="team.html">Team</a></li>
+							<li><a href="concern.html">Our Concern</a></li>
+							<li><a href="web-development.html">Web Development</a></li>
+							<li><a href="software-development.html">Software Development</a></li>
+							<li><a href="mobile-Application-development.html">Mobile Application Development</a></li>
+							<li><a href="graphical-solution.html">Graphical Solution</a></li>
 
-							<li><a href="videography-Photography.php">Videography $ Photography Support</a></li>
-							<li><a href="vfx-&-Animation.php">VFX & Animation</a></li>
-							<li><a href="Digital-marketing-services.php">Digital Marketing Services</a></li>
-							<li><a href="portfolio.php">Portfolio</a></li>
-							<li><a href="gallery.php">Gallery</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="videography-Photography.html">Videography $ Photography Support</a></li>
+							<li><a href="vfx-&-Animation.html">VFX & Animation</a></li>
+							<li><a href="Digital-marketing-services.html">Digital Marketing Services</a></li>
+							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -675,7 +675,7 @@
 			<div class="row white-bg align-items-center gx-lg-0 pt-15">
 				<div class="col-xl-6 col-lg-4 col-md-6 text-center text-md-start">
 					<div class="logo-area mb-15 pl-30 pl-md-0 pl-xs-0">
-						<a href="index.php"><img src="img/logo/Compnay-logo1.png" style="height: 70px;width: 70px;"
+						<a href="index.html"><img src="img/logo/Compnay-logo1.png" style="height: 70px;width: 70px;"
 								alt="Footer-logo"></a>
 					</div>
 				</div>

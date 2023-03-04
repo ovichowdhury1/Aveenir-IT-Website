@@ -732,7 +732,7 @@ label {
   background-color: #fff;
   border-radius: 0;
   display: block;
-  right: 0;
+  right: -47px;
   left: -30px;
   padding: 8px 0;
   top: 100%;
@@ -3405,7 +3405,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .semi-title {
   color: #F47f20;
-  font-size: 14px;
+  font-size: 25px;
   line-height: 1;
   letter-spacing: 0px;
   position: relative;
@@ -7674,7 +7674,7 @@ input.main-search-input:-ms-input-placeholder {
   position: relative;
   z-index: 1;
 }
-.portfolio-wrapper::before {
+/* .portfolio-wrapper::before {
   content: "";
   position: absolute;
   background-image: -webkit-gradient(linear, left bottom, left top, from(rgb(8, 106, 216)), to(rgb(55, 140, 255)));
@@ -7691,7 +7691,7 @@ input.main-search-input:-ms-input-placeholder {
   left: 0;
   bottom: 0;
   z-index: 1;
-}
+} */
 .portfolio-wrapper img {
   max-width: 100%;
   width: 100%;
@@ -9504,7 +9504,7 @@ input.main-search-input:-ms-input-placeholder {
   color: #fff;
 }
 .single-pricing-area-h2.standared .pricing-head {
-  background: #086ad9;
+  background: #f47f20;
 }
 .single-pricing-area-h2.standared .pricing-head .title {
   color: #fff;
